@@ -1,5 +1,7 @@
 # my-midway-project
 
+前端简易页面见项目https://github.com/hp1998318/langchain_chat.git
+
 ## QuickStart
 
 <!-- add docs here for user -->
@@ -25,6 +27,5 @@ $ npm stop
 
 - Use `npm run lint` to check code style.
 - Use `npm test` to run unit test.
-
 
 [midway]: https://midwayjs.org

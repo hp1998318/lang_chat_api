@@ -1,5 +1,7 @@
 # my-midway-project
 
+前端简易页面见项目https://github.com/hp1998318/langchain_chat.git
+
 ## 快速入门
 
 <!-- 在此次添加使用文档 -->
@@ -25,6 +27,5 @@ $ npm stop
 
 - 使用 `npm run lint` 来做代码风格检查。
 - 使用 `npm test` 来执行单元测试。
-
 
 [midway]: https://midwayjs.org
